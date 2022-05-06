@@ -3,6 +3,6 @@
   "version": "0.1.0",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
-    "eleventy-plugin-typeset": "^1.0.0"
+    "typeset": "^0.3.1"
   }
 }
